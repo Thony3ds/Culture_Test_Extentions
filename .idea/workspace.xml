@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad911c0-98eb-41ef-9940-32ef5909a982" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/calcul_mental1/calcul_mental1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/calcul_mental1/installation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/calcul_mental1.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="3ad911c0-98eb-41ef-9940-32ef5909a982" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +45,7 @@
       <recent name="$PROJECT_DIR$/extentions/frensh/calcul_mental1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/extentions/frensh/calcul_mental1/calcul_mental1" />
       <recent name="$PROJECT_DIR$/extentions/frensh/calcul_mental1" />
       <recent name="$PROJECT_DIR$/extentions_download/frensh" />
     </key>
@@ -183,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678010517801</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update">
+      <created>1678013014674</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678013014674</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
