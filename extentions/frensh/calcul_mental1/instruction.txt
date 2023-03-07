@@ -1,5 +1,1 @@
-Pour ouvrir le fichier utilise la réponse au calcul suivant comme code pour l'ouvrir
-
-4+4 = ?
-
-puis lance le script python a l'intérrieure du fichier
+Pour installer lance le script python

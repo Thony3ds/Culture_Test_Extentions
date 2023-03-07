@@ -3,7 +3,7 @@ import os, shutil
 def exctraction():
     print("start....")
     file = input("test dirrectory name: ")
-    langue = input("language (in english): ")
+    langue = "frensh"
     file_analyse = os.path.dirname(os.path.abspath(__file__)) + "/Culture_Test_Extentions/extentions/" + langue + "/" + file
     try :
         print("start exctracting....")

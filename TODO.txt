@@ -1,1 +1,0 @@
-mettre dans les .zip le py file d'installation du test (le créer).
