@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ad911c0-98eb-41ef-9940-32ef5909a982" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/calcul_mental1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/installation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TODO.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/calcul_mental1.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/instruction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/instruction.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentions_download/frensh/calcul_mental1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/extentions_download/frensh/download_test.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/extentions_download/frensh/extractor.py" beforeDir="false" afterPath="$PROJECT_DIR$/extentions_download/frensh/extractor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/installation.py" beforeDir="false" afterPath="$PROJECT_DIR$/extentions/frensh/calcul_mental1/installation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678187654650</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1678187666244</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678187666244</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

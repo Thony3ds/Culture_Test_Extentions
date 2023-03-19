@@ -2,10 +2,9 @@ import os, shutil
 
 def exctraction():
     print("start....")
-    file = "calcul_mental1.json"
     try :
         print("start exctracting....")
-        source_folder = file
+        source_folder = "calcul_mental1.json"
         text = os.path.dirname(os.path.abspath(__file__))
         destination_folder = text.replace("extentions/frensh/calcul_mental1", "assets/jsons/frensh")
 
